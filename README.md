@@ -73,11 +73,3 @@ Stacking yaklaşımı, tek başına modellerden daha dengeli ve güçlü bir per
 
 ---
 
-## Kullanım
-
-```python
-train_data = pd.read_parquet('train_data_v7.parquet')
-test_data = pd.read_parquet('test_data_v7.parquet')
-
-
-
