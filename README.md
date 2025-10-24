@@ -1,3 +1,14 @@
+---
+
+## 🏆 Yarışma Başarı Sonuçları
+
+Bu çalışma, ING Hubs Datathon sürecinde değerlendirilmiş ve aşağıdaki sıralama sonuçlarını elde etmiştir:
+
+- **Public Leaderboard:** İlk %3’lük dilimde yer aldı
+- **Private Leaderboard:** Son değerlendirmede **ilk %10’luk dilim** içinde konumlandı
+
+---
+
 # ING Hubs Datathon - Churn Prediction & Stacking Ensemble Model
 
 Bu proje, ING Hubs Datathon kapsamında müşterilerin bankadan ayrılma (churn) olasılığını tahmin etmek için geliştirilmiştir.  
